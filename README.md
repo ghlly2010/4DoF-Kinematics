@@ -18,6 +18,7 @@
 
 <br><br>
 
+
 ---
 
 ### 로봇팔 물성치
@@ -26,7 +27,7 @@
 
 | Raccoon | 기구학 |
 | :---: | :---: |
-| <img src="" width="600" alt="7_3-1" /> | <img src="https://github.com/user-attachments/assets/17d3bd79-796f-4db8-8b7d-57dabf09db2e" height="300" alt="7_3-2" /> |
+| <img src="https://github.com/user-attachments/assets/7b8eb9fb-9b2a-4d2b-af92-401b0740563d" width="600" alt="7_3-1" /> | <img src="https://github.com/user-attachments/assets/17d3bd79-796f-4db8-8b7d-57dabf09db2e" height="300" alt="7_3-2" /> |
 
 * **링크 길이** *(단위: mm)*:
   * $L_1 = 0$  *(xy평면 즉, 원점을 Joint 2로 설정하기 위해 0으로 설정)*
